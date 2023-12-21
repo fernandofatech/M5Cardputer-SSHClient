@@ -1,4 +1,3 @@
-Certainly! Here's a more professional and clearer version of the README for your SSH Terminal project with M5Cardputer and ESP32:
 # SSH Terminal with M5Cardputer
 
 ## Overview

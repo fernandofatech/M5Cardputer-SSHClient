@@ -3,6 +3,8 @@
 ## Overview
 This project enables you to create a user-friendly SSH terminal using an M5Cardputer coupled with an ESP32 microcontroller. It allows remote SSH server connections and interactions utilizing the M5Cardputer's integrated keyboard and display.
 
+![IMG_3531](https://github.com/fernandofatech/M5Cardputer-SSHClient/assets/39699305/52fccfc4-7b77-4ea0-9ccf-d27374df7629)
+
 ## Prerequisites
 Ensure you have the following prerequisites before starting:
 
